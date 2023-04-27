@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" http-equiv="Content-Type" content="text/html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>Ecommerce Home Admin</title>
+    
+    <link rel="stylesheet" type="text/css" href="/webjars/bootstrap/css/bootstrap.min.css"/>
+</head>
+<body>
+	<div class="container-fluid">
+		<div>
+			<h1> Welcome to Ecommerce Admin Control Pannel</h1>
+		</div>
+		
+	</div>
+  
+</body>
+</html>

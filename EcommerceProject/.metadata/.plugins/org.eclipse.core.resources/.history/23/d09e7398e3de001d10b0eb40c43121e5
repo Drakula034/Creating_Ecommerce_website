@@ -1,0 +1,10 @@
+
+server.port=8080
+server.servlet.context-path=/AmazonAdmin
+
+spring.datasource.url=jdbc:mysql://localhost:3306/amazondb
+spring.datasource.username=root
+spring.datasource.password=Ravi@1234
+
+
+spring.jpa.hibernate.ddl-auto=update

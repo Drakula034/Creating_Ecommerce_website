@@ -1,0 +1,5 @@
+package com.ecommerce.admin.entity.user;
+
+public interface RoleRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.ecommerce.admin.user;
+
+public class RoleRepositoryTests {
+
+}
